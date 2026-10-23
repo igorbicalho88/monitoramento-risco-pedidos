@@ -1,0 +1,12 @@
+# ambiente e cache
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# credenciais do banco (nunca versionar)
+.env
+
+# dados e logs gerados
+data/
+logs/
